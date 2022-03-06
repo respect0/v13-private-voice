@@ -1,0 +1,14 @@
+{
+  "name": "respect-v13",
+  "version": "0.0.1",
+  "description": "respect-v13",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.13"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
