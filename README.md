@@ -4,7 +4,7 @@ Düzenli yapıdan oluşan bir özel oda sistemi. Veritabansız halinde kullanabi
 
 **Eklenmesini istediğiniz özellikler ekleyin halledelim.** 😋
 
-Discord adresim; `respect#9999` (919663047923101736)
+Discord adresim; `respect#1000` (919663047923101736)
 
 **Star** atmayı unutmayın. 🌟
 
