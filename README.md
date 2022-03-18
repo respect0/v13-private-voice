@@ -4,7 +4,7 @@ Eğik çizgi komutları ve modalden oluşan bir yapı ile güncellenecek.
 
 <del>Düzenli yapıdan oluşan bir özel oda sistemi. Veritabansız halinde kullanabileceğiniz şekilde müsait olduğumda güncelleyeceğim.
 
-**Eklenmesini istediğiniz özellikler ekleyin halledelim.**</del>
+Eklenmesini istediğiniz özellikler ekleyin halledelim.</del>
 
 Discord adresim; `respect#1000` (919663047923101736)
 
