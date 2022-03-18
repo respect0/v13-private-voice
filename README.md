@@ -1,6 +1,8 @@
 # v13-private-voice
 
-Düzenli yapıdan oluşan bir özel oda sistemi. Veritabansız halinde kullanabileceğiniz şekilde müsait olduğumda güncelleyeceğim.
+
+
+<del>Düzenli yapıdan oluşan bir özel oda sistemi. Veritabansız halinde kullanabileceğiniz şekilde müsait olduğumda güncelleyeceğim.</del>
 
 **Eklenmesini istediğiniz özellikler ekleyin halledelim.** 😋
 
