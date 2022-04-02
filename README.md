@@ -1,12 +1,13 @@
 # v13-private-voice
 
-Eğik çizgi komutları ve modalden oluşan bir yapı ile güncellenecek.
+Eğik çizgi komutu ve modal ile birlikte!
 
-Hala bitmemiş olduğundan dolayı güncellemekteyim. 
-Yapacağım yeni projelerden haberdar olmak için takip edebilirsin.🤸‍♂️
-
-![image](https://user-images.githubusercontent.com/79569914/160259706-49959801-ec43-48b4-a3d8-d8e463492807.png)
-![image](https://user-images.githubusercontent.com/79569914/160259716-6c66a1d7-9898-4911-82e0-604248f90766.png)
+![image](https://user-images.githubusercontent.com/79569914/161393531-a2a8316a-574a-4674-9256-fafee82a248f.png)
+![image](https://user-images.githubusercontent.com/79569914/161393543-9ab99146-1661-4197-82c9-d1a1d9a333d8.png)
+![image](https://user-images.githubusercontent.com/79569914/161393628-6c0d19e9-84d0-452c-8743-c82aef13bb0c.png)
+![image](https://user-images.githubusercontent.com/79569914/161393645-41bd7d57-8fc4-4e92-a8a3-2be6e7e06e40.png)
+*Log*
+![image](https://user-images.githubusercontent.com/79569914/161393655-56a43560-5757-4ddf-801d-bc5fac6eca9a.png)
 
 Discord adresim; `respect#1000` (919663047923101736)
 
