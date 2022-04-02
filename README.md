@@ -7,7 +7,6 @@ Eğik çizgi komutu ve modal ile birlikte!
 ![image](https://user-images.githubusercontent.com/79569914/161393645-41bd7d57-8fc4-4e92-a8a3-2be6e7e06e40.png)
 ![image](https://user-images.githubusercontent.com/79569914/161393543-9ab99146-1661-4197-82c9-d1a1d9a333d8.png)
 
-Log
 ![image](https://user-images.githubusercontent.com/79569914/161393655-56a43560-5757-4ddf-801d-bc5fac6eca9a.png)
 
 Discord adresim; `respect#1000` (919663047923101736)
