@@ -1,0 +1,10 @@
+{
+    "guild": {
+        "id": ""
+    },
+    "bot": {
+        "owner": "919663047923101736",
+        "mongoURL": "mongodb+srv://:@/privateVoiceModal",
+        "token": ""
+    }
+}
