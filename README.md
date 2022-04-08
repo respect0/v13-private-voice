@@ -4,8 +4,6 @@ Ne yapayım bunu daha geliştireyim mi? :D
 
 Eğik çizgi komutu ve modal ile birlikte!
 
-Geliştirip paylaştığınızda ben yaptım diye paylasmayin thx 
-
 ![image](https://user-images.githubusercontent.com/79569914/161393531-a2a8316a-574a-4674-9256-fafee82a248f.png)
 ![image](https://user-images.githubusercontent.com/79569914/161393628-6c0d19e9-84d0-452c-8743-c82aef13bb0c.png)
 ![image](https://user-images.githubusercontent.com/79569914/161393645-41bd7d57-8fc4-4e92-a8a3-2be6e7e06e40.png)
