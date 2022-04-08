@@ -1,5 +1,7 @@
 # v13-private-voice
 
+Ne yapayım bunu daha geliştireyim mi? :D
+
 Eğik çizgi komutu ve modal ile birlikte!
 
 Geliştirip paylaştığınızda ben yaptım diye paylasmayin thx 
